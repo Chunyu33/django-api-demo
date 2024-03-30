@@ -25,7 +25,7 @@ python manage.py makemigrations app_name
 
 ```
 
-### 创建超级用户
+### 创建超级用户(这个可以用于内置的后台)
 ```shell
 python manage.py createsuperuser
 ```
